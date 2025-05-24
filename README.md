@@ -1,4 +1,4 @@
-1. Stáhnout z GitHubu, rozbalit.
+1. Stáhnout z GitHubu (zelené tlačítko Code, Download ZIP), rozbalit.
 2. Otevřít složku ve VS CODE.
 3. Otevřít terminál, zadat:
 ```
